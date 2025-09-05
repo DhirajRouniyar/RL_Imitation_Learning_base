@@ -1,4 +1,4 @@
-# RL Prodigy: Mastering Reinforcement Learning
+# RL : Imitation_Learning_base
 
 Proximal Policy Optimization (PPO) can be used for imitation learning on robotic manipulators.
 
